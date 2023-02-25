@@ -1,0 +1,11 @@
+C:\Programming\Megha\basicExample\bin\Debug\basicExample.exe.config
+C:\Programming\Megha\basicExample\bin\Debug\basicExample.exe
+C:\Programming\Megha\basicExample\bin\Debug\basicExample.pdb
+C:\Programming\Megha\basicExample\obj\Debug\basicExample.csproj.AssemblyReference.cache
+C:\Programming\Megha\basicExample\obj\Debug\basicExample.csproj.SuggestedBindingRedirects.cache
+C:\Programming\Megha\basicExample\obj\Debug\basicExample.Form1.resources
+C:\Programming\Megha\basicExample\obj\Debug\basicExample.Properties.Resources.resources
+C:\Programming\Megha\basicExample\obj\Debug\basicExample.csproj.GenerateResource.cache
+C:\Programming\Megha\basicExample\obj\Debug\basicExample.csproj.CoreCompileInputs.cache
+C:\Programming\Megha\basicExample\obj\Debug\basicExample.exe
+C:\Programming\Megha\basicExample\obj\Debug\basicExample.pdb
